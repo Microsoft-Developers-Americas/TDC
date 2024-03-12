@@ -10,7 +10,7 @@ Aprenda com a Microsoft através destes programas e leve o seu conhecimento téc
 | [Conceitos básicos de IA do Microsoft Azure: Introdução à inteligência artificial](https://learn.microsoft.com/pt-br/training/paths/get-started-with-artificial-intelligence-on-azure/) | A IA (inteligência artificial) capacita novas soluções e experiências incríveis, e o Microsoft Azure fornece serviços fáceis de usar para ajudá-lo a começar. |
 | [GitHub CoPilot](https://resources.github.com/copilot-for-business/) | Site| Maximize a velocidade do desenvolvedor com IA
 | [Microsoft Learn](https://learn.microsoft.com/pt-br/training/browse/?expanded=azure&products=ai-services) | Auto-Aprendizagem| Aprenda novas habilidades e descubra o poder dos produtos Microsoft com diretrizes passo a passo. Comece sua jornada hoje mesmo, explorando nossos módulos e roteiros de aprendizagem.|
-| [Cloud Skills Challenge - Desafio GitHub Copilot](https://learn.microsoft.com/training/challenges?id=65a891fe-5159-4238-a524-2205991e67b2&WT.mc_id=cloudskillschallenge_65a891fe-5159-4238-a524-2205991e67b2) | Desafio| O Desafio GitHub Copilot é um desafio disponível do Microsoft Learn. É gratuíto, divertido e orientado para a comunidade de desenvolvedores, este desafio ajudará você a aprender GitHub, Codespaces e criar projetos do mundo real com o GitHub Copilot.
+
 
 
 
