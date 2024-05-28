@@ -1,4 +1,4 @@
-# Microsoft-Recursos-Inteligência-Artificial
+# Microsoft-Recursos-TDC-Floripa
 ![MS_2525_CDS_RegBanner_DevTools_1920x300 (1)](https://user-images.githubusercontent.com/107423518/180083692-13dcdf47-0f75-4aaf-b50e-5d037f611206.jpg)
  Explore como utilizar o Azure AI, aprofunde-se nas funcionalidades e nos recursos disponíveis.
 
