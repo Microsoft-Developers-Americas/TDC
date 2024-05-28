@@ -5,11 +5,12 @@
 ## Conteúdo Apresentado
 Aprenda com a Microsoft através destes programas e leve o seu conhecimento técnico em IA para o próximo nível!
 | Recurso | Descrição |
-| --- | --- | 
-| [IA do Azure](https://azure.microsoft.com/en-us/solutions/ai/) | Documentação | Gere resultados de negócios e melhore as experiências do cliente com soluções de IA.
+| --- | --- |
+| [Trilhas Microsoft no TDC](https://promo.thedevconf.com/flp24-microsoft) | Aprenda novas habilidades e aproveite as trilhas Microsoft criadas no TDC Floripa, trazem uma oportunidade fantástica de aprendizado e networking.|
+| [IA do Azure](https://azure.microsoft.com/en-us/solutions/ai/) | Gere resultados de negócios e melhore as experiências do cliente com soluções de IA.
 | [Conceitos básicos de IA do Microsoft Azure: Introdução à inteligência artificial](https://learn.microsoft.com/pt-br/training/paths/get-started-with-artificial-intelligence-on-azure/) | A IA (inteligência artificial) capacita novas soluções e experiências incríveis, e o Microsoft Azure fornece serviços fáceis de usar para ajudá-lo a começar. |
-| [GitHub CoPilot](https://resources.github.com/copilot-for-business/) | Site| Maximize a velocidade do desenvolvedor com IA
-| [Microsoft Learn](https://learn.microsoft.com/pt-br/training/browse/?expanded=azure&products=ai-services) | Auto-Aprendizagem| Aprenda novas habilidades e descubra o poder dos produtos Microsoft com diretrizes passo a passo. Comece sua jornada hoje mesmo, explorando nossos módulos e roteiros de aprendizagem.|
+| [GitHub CoPilot](https://resources.github.com/copilot-for-business/) | Maximize a velocidade do desenvolvedor com IA.
+| [Microsoft Learn](https://learn.microsoft.com/pt-br/training/browse/?expanded=azure&products=ai-services) | Aprenda novas habilidades e descubra o poder dos produtos Microsoft com diretrizes passo a passo. Comece sua jornada hoje mesmo, explorando nossos módulos e roteiros de aprendizagem.|
 
 
 
