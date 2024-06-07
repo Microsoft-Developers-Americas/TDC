@@ -12,6 +12,9 @@ Aprenda com a Microsoft através destes programas e leve o seu conhecimento téc
 | [GitHub CoPilot](https://resources.github.com/copilot-for-business/) | Maximize a velocidade do desenvolvedor com IA.
 | [Microsoft Learn](https://learn.microsoft.com/pt-br/training/browse/?expanded=azure&products=ai-services) | Aprenda novas habilidades e descubra o poder dos produtos Microsoft com diretrizes passo a passo. Comece sua jornada hoje mesmo, explorando nossos módulos e roteiros de aprendizagem.|
 | [O Melhor do Microsoft Build 2024](https://aka.ms/Best_of_Build_2024)| Mantenha-se atualizado com as últimas novidades da conferência Microsoft Build. Selecionamos uma seleção dos principais anúncios, blogs informativos, recursos de treinamento e downloads de produtos para ajudá-lo a se atualizar sobre o conteúdo que você pode ter perdido.|
+| [Cloud Skills Challenge - Conceitos Basicos de IA](https://learn.microsoft.com/training/challenges?id=27ec51c5-6f19-4e4d-83c5-5660b970d2d5&WT.mc_id=cloudskillschallenge_27ec51c5-6f19-4e4d-83c5-5660b970d2d5)| Saiba mais sobre as diversas áreas de IA, incluindo aprendizado de máquina, pesquisa visual computacional, processamento de linguagem natural e IA de conversação.|
+| [Cloud Skills Challenge - Desenvolva Code-First Apps com IA Generativa](https://learn.microsoft.com/training/challenges?id=27ec51c5-6f19-4e4d-83c5-5660b970d2d5&WT.mc_id=cloudskillschallenge_27ec51c5-6f19-4e4d-83c5-5660b970d2d5)| Quer iniciar sua jornada construindo aplicativos generativos de IA de ponta a ponta - mas não sabe por onde começar? Tente explorar os exemplos oficiais de IA do Azure do Contoso Chat, para vários inícios rápidos (Python, Promptflow, Langchain, Semantic Kernel) que mostram Code-First Apps.|
+
 
 
 
