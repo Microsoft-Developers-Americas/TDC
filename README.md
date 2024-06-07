@@ -11,6 +11,7 @@ Aprenda com a Microsoft através destes programas e leve o seu conhecimento téc
 | [Conceitos básicos de IA do Microsoft Azure: Introdução à inteligência artificial](https://learn.microsoft.com/pt-br/training/paths/get-started-with-artificial-intelligence-on-azure/) | A IA (inteligência artificial) capacita novas soluções e experiências incríveis, e o Microsoft Azure fornece serviços fáceis de usar para ajudá-lo a começar. |
 | [GitHub CoPilot](https://resources.github.com/copilot-for-business/) | Maximize a velocidade do desenvolvedor com IA.
 | [Microsoft Learn](https://learn.microsoft.com/pt-br/training/browse/?expanded=azure&products=ai-services) | Aprenda novas habilidades e descubra o poder dos produtos Microsoft com diretrizes passo a passo. Comece sua jornada hoje mesmo, explorando nossos módulos e roteiros de aprendizagem.|
+| [O Melhor do Microsoft Build 2024](https://aka.ms/Best_of_Build_2024)| Mantenha-se atualizado com as últimas novidades da conferência Microsoft Build. Selecionamos uma seleção dos principais anúncios, blogs informativos, recursos de treinamento e downloads de produtos para ajudá-lo a se atualizar sobre o conteúdo que você pode ter perdido.|
 
 
 
